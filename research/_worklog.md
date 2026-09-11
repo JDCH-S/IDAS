@@ -29,3 +29,7 @@ Date: 2026-09-11. Repo: jdch-s/idas, branch claude/amazing-darwin-udo71p.
 - [ ] 7 Top 5
 - [ ] 8 Final review + decision
 - [ ] 9 Deliverables committed and pushed
+
+## Phase 1 notes
+- Stream E: reddit.com blocked for search agents; 200-query budget per agent hit after 32 queries (budget appears per-agent, orchestrator search still works). Reddit-based pain evidence therefore thin; substitute HN/IH/review sites.
+- Stream A: 44 queries, 30 opportunities. Strong signals: SME-group consolidation on Odoo/Exact/Yuki (A-09); accounting-firm capacity crunch (A-04/06); BE 2028 e-reporting (A-03); ITAA "digital dependency"/vendor concentration (A-16); Peppol clean-up (A-01); ERP data extraction (A-10); month-end close lower mid-market (A-07). Caveat: many hour/cost figures are vendor-blog sourced.
