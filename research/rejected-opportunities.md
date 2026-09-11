@@ -67,3 +67,20 @@ Column key for the problem flags: C = competitor problem, B = barrier problem, K
 ## Stage CI (to be appended after competitive/existence checks)
 
 ## Stage DEEP / RED / FINAL (to be appended)
+
+| ID | Idea | Market | Why it was investigated | Why rejected (CI evidence) | C | B | K | R | A | F | I | O |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| U-007 | Structured-e-invoice AP coding for Odoo/Exact/Yuki | SME bookkeepers | Peppol XML still treated like PDFs | Exact Purchase Agent, Yuki auto-booking, ClearFacts AIR, Odoo 19 AI and Cashfeed (350 clients) own it | Y | - | - | - | Y | - | - | - |
+| U-014 | Belgian corporate compliance calendar | ITAA firms | 2026 deadline shifts + fines | COMAX UBO (Silverfin-integrated), AdminPulse, Fid-Manager already do it; regulator sends reminders | Y | - | - | - | - | - | - | - |
+| U-015 | Biztax tax-preparation agent | BE firms | US tax agents exist | Superfisc files >40% of ISOC returns; Silverfin/Adsolut/Sofisk automate from trial balance; Wally, WK monKEY AI, GenIA-L sell AI tax help; advice layer ITAA-reserved | Y | Y | - | Y | - | - | - | - |
+| U-028 | Odoo bank-reconciliation exception agent | Odoo SMEs | Auto-matching degrades >200 txn/mo | Odoo 19 AI rules, Odoo 20 learning matcher, App Store AI modules, OCA modules: platform absorbed | Y | - | - | - | Y | - | - | platform risk realised |
+| U-037 | Late-payment dunning for Belgian SMEs | SMEs | Payment gap 21 days | Clearnox EUR 129-549/mo, Chaser, iController/KBC, reminders bundled in Billit/Yuki/Exact/Odoo, AI agencies selling it | Y | - | - | - | Y | - | - | - |
+| U-040 | 30bis withholding check at AP run | Contractors | New 2026 withholding regime | Official billRetainment REST API + free portal; Robaws, Billit, AFAS ship the check; 30bis.be sells webservice | Y | - | - | - | - | - | - | already built at platform level |
+| U-045 | NIS2 evidence pack via MSPs | Important entities | 84% not ready | Easy Cyber Protection sells exactly this via MSPs from EUR 25/client/mo; free CCB tools; bottleneck is audit capacity (2 CABs), not tooling | Y | - | - | - | - | Y | - | wrong bottleneck |
+| U-047 | CBAM liability forecasting | Importers >50t | Finance-shaped | CBAMBOO, SAP, Coolset, IntegrityNext ship forecasting; ~4,100 declarants EU-wide; Belgian count ENF | Y | - | - | - | - | - | - | tiny TAM |
+| U-048 | PPWR/EPR fee calculation | Consumer-goods SMEs | Aug 2026 application | 12+ tools, five under EUR 25/mo; product-heavy; not Belgium-specific | Y | - | - | - | - | Y | - | - |
+| U-071 | Pharmacy margin analytics | 4,581 open pharmacies | APB dropped suggested prices | Corilus already ships price checker/margin tables; data locked; count falling | Y | Y | - | - | - | Y | - | data locked |
+| U-073 | Haulier cost-per-km | Micro hauliers | Record bankruptcies | TLV/ITLB free member cost tool; customers cash-poor and failing | Y | - | - | - | - | - | Y | no WTP |
+| U-090 | Agency finance playbooks | AI agencies | Shallow finance depth | Standalone too small; folded into U-089 as upsell | - | - | - | - | - | - | - | too small |
+
+Stage CI also demoted 16 opportunities to WEAK (kept in the ranking, not pursued): U-005, U-009, U-010, U-012, U-013, U-022, U-023, U-024, U-027, U-038, U-044, U-054, U-062, U-067, U-072, U-092, U-098. Reasons are in `top-20.md` and `competitive-analysis.md`.
