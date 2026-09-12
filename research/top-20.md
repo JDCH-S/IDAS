@@ -257,3 +257,12 @@ Reading the ranking: the pattern across all 40 checks is that pure-software play
 - U-024 "no competitor found" (stream D) vs Endex/Copilot (CI): CI wins; demoted to feature.
 - U-040, U-045, U-047 "gaps" (streams B/C) vs official API / Easy Cyber Protection / CBAM tool features (CI): CI wins; rejected.
 - U-009 "localisation gap" (universe) vs OkiOki (CI): CI wins; demoted.
+
+
+## Status after deep research and red teams (2026-09-12)
+- OPP-A (U-031 + U-021): rank 1 confirmed as a services-only steelman; product leg killed by Odoo 19/20 and cheap SaaS.
+- OPP-B (U-002 + U-004): product killed (authority scanner, vendor views, Peliqan); reserve service wedge only.
+- OPP-C (U-064): only with an ITAA/IBR signatory; natural second product once an ITAA relationship exists.
+- OPP-D (U-068): demoted (primes gone, free channel occupied, calendar slipped).
+- OPP-E (U-046) and OPP-F (U-043): see `top-5-deep-dives.md` and `final-recommendation.md`.
+- U-011, U-023, U-024, U-022, U-012: folded into OPP-A as routes or delivery assets.

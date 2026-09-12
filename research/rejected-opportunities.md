@@ -66,7 +66,20 @@ Column key for the problem flags: C = competitor problem, B = barrier problem, K
 
 ## Stage CI (to be appended after competitive/existence checks)
 
-## Stage DEEP / RED / FINAL (to be appended)
+## Stage DEEP / RED (deep research and red teams)
+
+| ID | Idea | Market | Why it was investigated | Why rejected or demoted | C | B | K | R | A | F | I | O |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| U-021 (product leg) | Odoo/Exact-native consolidation product | Belgian groups on Odoo/Exact | Odoo removed its consolidation app in v18 | Odoo 19 already auto-eliminates coded IC balances; Odoo 20 extends automatic reconciliation to IC accounts; Finstack EUR 39/entity, Syft, Joiin, BrightAnalytics AI matching, Exact Consolidatie; category-leader exit ~USD 70M. Service leg kept (OPP-A). | Y | - | - | - | Y | - | - | platform owner ships the engine |
+| U-002 / U-004 (product) | Peppol portfolio monitoring and 2028 reconciliation product | Belgian accounting firms | Rejection/identifier mess after the Jan 2026 mandate | Belgian Peppol Authority + FPS Finance network data scanner cut identifier errors 2.41% -> 0.31% (Dec 2025-Apr 2026); vendor status views (OkiOki, Billit, Yuki, WK, WinBooks); Peliqan/Chift cross-ledger layer; 22 Peppol MCP repos; MLS v1.1.0; no paid Peppol audits found; FPS assigns delivery investigation to software suppliers. Reserve: FR-language incident-documentation engagement. | Y | - | - | - | Y | - | - | problem transient |
+| U-064 (solo) | QoE-light sold in the founder's own name | Belgian small-deal buyers | No productised Belgian QoE found | Art. 3, 5 of the law of 17 March 2019 reserves analysis by accounting techniques of profitability and risk; ITAA prosecutes (Kortrijk Dec 2024); Analyzediz, Syno M&A, Bol Adviseurs occupy the affordable-DD wedge. Kept only with an ITAA/IBR signatory or as adviser tooling. | Y | - | - | Y | Y | Y | - | - |
+| U-068 | Brussels co-ownership renovation financing packs | Brussels syndics | PEB 2030/2033 deadlines, no commercial tool | Renolution primes suspended Aug 2024 and not returning; ECORENO closed to ACPs; Bruxelles Environnement Facilitateur Copropriete and Federia Syndic Reno Support (430+ syndics) occupy the free channel; core CoBrACE provisions pushed to Jul 2028; TAM EUR 1.3-2M/yr; NL analogue shows ~160 collective loans/yr. | Y | Y | - | Y | - | - | Y | policy-dependent, no scale |
+| U-011 | Reporting/automation capacity partner for accounting firms | Belgian firms with client stops | 56% of firms refuse clients | ITAA disciplined members (2022) for cooperating with non-members; only pure subcontracting under a firm's engagement letter is safe; Ravical/Dytto/Silverfin own "AI for firms". Folded into OPP-A as the subcontracting route. | Y | - | - | Y | - | - | - | - |
+| U-023 / U-024 / U-022 / U-012 | Variance-commentary agent, tie-out agent, ERP extraction layer, MCP layer | FP&A / firms | Founder-fit software ideas | Microsoft Finance Agents and Excel Skills, Endex, Peliqan/Chift and OSS MCP servers commoditised each within 12 months. Kept only as internal delivery assets of OPP-A. | Y | - | - | - | Y | - | - | feature not company |
+
+## Stage FINAL
+
+See `final-recommendation.md`. Pattern across all stages: in Belgian SME finance in 2026 the software rents are held by platform owners (Odoo, Microsoft, Visma/Exact, Xero) and by the Ghent accounting-tech cluster; what a part-time non-ITAA founder can reach is accountable finance work sold on triggers at prices anchored to interim day rates, with the ITAA seven-year-experience exemption as the route to turn the regulatory wall into a moat.
 
 | ID | Idea | Market | Why it was investigated | Why rejected (CI evidence) | C | B | K | R | A | F | I | O |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
