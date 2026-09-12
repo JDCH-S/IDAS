@@ -106,3 +106,167 @@ Batch 5 (8 queries):
 - Q39: Belgian firms (VP Accountants, Meesters, Blanckaert) market "real-time insight" via Silverfin and management reporting as add-ons; no prices, no cadence data. ENF for monthly-WTP evidence.
 - Q40: ATTA glossary: ITAA needed to sign annual accounts, file ISOC, represent before SPF Finances, attest accounts; nothing on contrôle de gestion. ENF for explicit statement either way.
 
+Batch 6 (8 queries):
+- Q41 Balanscentrale aantal geconsolideerde jaarrekeningen neergelegd per jaar
+- Q42 aantal ondernemingen België onder buitenlandse controle Statbel FATS
+- Q43 ITAA richtlijn AI ChatGPT cliëntgegevens beroepsgeheim 2025 2026
+- Q44 Odoo 19 consolidation app intercompany elimination automatic limitations
+- Q45 "controlling as a service"/"CFO as a service" België KMO maandelijks tarief
+- Q46 licenciement activité complémentaire indépendante conflit d'intérêts motif grave
+- Q47 shared service center trend European subsidiaries finance centralisation
+- Q48 Odoo Experience 2026 agenda accounting consolidation sessions
+
+### Batch 6 raw notes
+- Q41: NBB Balanscentrale publishes counts of filed annual accounts; no consolidated-accounts count surfaced in search. ENF (data likely exists on NBB.Stat; needs direct access).
+- Q42: Statbel has a datalab "Multinationale groepen in België" (https://statbel.fgov.be/nl/themas/datalab/multinationale-groepen-belgie) — content not readable via search. ENF for number.
+- Q43: ITAA blog 19 Aug 2026 "AI bereidt voor. U beslist." (https://www.blogitaa.be/2026/08/19/ai-doet-de-routine-jij-doet-het-vertrouwen/) — ITAA positioning: AI does routine, the accountant provides trust; professional-secrecy guidance: no client data in public models, DPA with Azure/OpenAI etc. (jubel.be, recht.nl). Signal: the ITAA profession itself is being pushed to the "trust/sign-off" position OPP-A wants to occupy.
+- Q44 (VERIFIED search-summary, partner blogs): Odoo 19 Enterprise consolidation "generates group-level statements with automatic elimination entries for intercompany balances ... automates most eliminations if intercompany accounts are consistently coded"; manual elimination journals per period; auto-sync of IC SO/PO and invoices/bills. Forum 2025-26 threads show confusion on elimination entities / journal mapping. URLs: https://octurasolutions.medium.com/odoo-19-vs-18-10-key-features-compared-7d39e92b4fa6 ; https://ecosire.com/blog/odoo-multi-entity-accounting ; https://www.odoo.com/forum/help-1/does-odoo-19-still-support-elimination-entities-to-consolidate-financial-data-in-a-group-of-companies-298432 ; https://www.odoo.com/forum/help-1/how-does-odoo-support-inter-company-eliminations-in-europe-299551
+- Q45 (VERIFIED): Belgian CFO-as-a-service providers: VGD (CFO/financial controller/business controller at chosen frequency), Unikoo, Finvision (controlling & performance management), cfo-as-a-service.be (registered KMO-portefeuille provider: Flemish subsidy 30% small / 20% medium, up to EUR 7,500/yr), Ventureleap. No monthly prices published. URLs: https://vgd.eu/diensten/cfo-services ; https://www.unikoo.be/finance-administratie/cfo-as-a-service ; https://www.cfo-as-a-service.be/kmo-portefeuille/ ; https://www.finvision.be/en
+- Q46 (VERIFIED): Belgian doctrine/case law: employee must inform employer of a complementary self-employed activity (loyalty duty) so employer can check compatibility; exercising it without required authorisation is a fault but not automatically a "motif grave"; motif grave is characterised when the side activity is for a competitor, even without proven conflict; failing to declare a conflict of interest despite express instructions can justify dismissal for serious cause; employer may refuse if conflict/competition. URLs: https://commyounity.be/2021/01/08/motif-grave-et-exercice-dune-activite-complementaire-non-autorisee-par-lemployeur/ ; https://litiss.be/lemployeur-peut-il-empecher-son-travailleur-dexercer-un-autre-travail-la-question-des-clauses-dexclusivite-dans-le-contrat-de-travail/ ; https://cap50.be/devenir-independant-complementaire-avec-lautorisation-de-son-employeur/ ; https://legalpme.be/concurrence-travailleur-employeur/
+- Q47: SSON 2025: 69% of organisations operate as/transition to GBS; 85% committed; cost is the target for 90%. Trend = HQs centralise subsidiary finance into SSC/GBS, not outsource locally. URLs: https://www.heflo.com/blog/shared-services-center ; https://www.bearingpoint.com/en/about-us/news-and-media/press-releases/shared-service-centres-are-key-success-drivers-for-european-financial-services-industry/
+- Q48 (VERIFIED): Odoo Experience 24-26 Sep 2026, Brussels Expo; 400 sessions; finance track ~20 sessions incl. "multi-company consolidation"; keynote "Unveiling Odoo 20" (F. Pinckaers) and Partena Professional CEO "A Sneak Preview of What's Coming for Accountants"; Eezee-it session "Multi-Company Accounting Across 27 Companies in France". URLs: https://www.odoo.com/event/odoo-experience-2026-9099/agenda ; https://www.erpimplementation.eu/en/odoo-20-world-premiere-brussels-odoo-experience-2026/
+
+Batch 7 (6 queries):
+- Q49 Statbel multinationale groepen België aantal ondernemingen buitenlandse zeggenschap
+- Q50 blogitaa 2026 exercice illégal "consultant"/"controlling" protection titre
+- Q51 AI-native accounting firm multi-entity consolidation monthly price (Kick/Pilot/Neno/Puzzle)
+- Q52 Odoo accounting-firm program Belgium fiduciaire Odoo consolidation service
+- Q53 ITAA stage vrijstelling 7 jaar beroepservaring toegang zonder stage
+- Q54 Finstack / Easyclose Belgium consolidation tool pricing per entity
+
+### Batch 7 raw notes
+- Q49 (VERIFIED, Statbel/Federaal Planbureau 2023): enterprise-group register counts ~5,500 groups active in Belgium controlling >15,000 Belgian subsidiaries: ~2,100 domestic groups, ~1,800 Belgian-controlled multinationals, ~1,600 foreign-controlled multinationals; multinational groups <3% of legal units but >30% of jobs. URLs: https://statbelpr.belgium.be/nl/themas/datalab/multinationale-groepen-belgie ; https://www.plan.be/publications/publication-2249-nl-multinationale_groepen_in_belgie_structuur_en_economische_activiteit ; https://blog.forumforthefuture.be/nl/article/datalab-multinationale-groepen-in-belgie/29046
+- Q50 (VERIFIED): ITAA blog 29 Jun 2026: anyone may give tax advice/prepare returns/support companies; protected = titles + reserved accounting activities ("keeping accounts for third parties, preparing financial statements, certain tasks exclusively reserved"); "the distinction between protected and non-protected activities sometimes creates confusion"; every report is examined case by case. URL: https://www.blogitaa.be/fr/2026/06/29/protection-du-titre-et-de-la-profession-comment-litaa-agit-contre-lexercice-illegal/ . Note: ITAA's own public framing of reserved activities omits art. 3, 5° "analysis" — INFERENCE: enforcement focus is bookkeeping/annual accounts, not controlling.
+- Q51: Kick Plus USD 100/month adds multi-entity; Puzzle routes consolidation via Joiin; Neno pricing not public. Price anchor for "multi-entity books + AI" is USD 100-300/month in the US. URLs: https://curatesuite.com/accounting/tools/kick ; https://puzzle.io/blog/top-ai-native-bookkeeping-firm-software
+- Q52 (VERIFIED): Odoo runs an "Accounting Firm partner program" with a Belgian directory (https://www.odoo.com/accounting-firms/country/belgium-20); doo.FINANCE = Odoo Gold Partner "Odoo Accountants in Belgium" (https://be.doo.finance/en); Acofisco Group = full fiduciary on Odoo (FR-speaking Belgium). Implication: ITAA firms already sit natively inside Belgian Odoo ledgers and can add reporting.
+- Q53 (VERIFIED, mitigation-relevant): ITAA grants exemption from entrance exam + 3-year stage on 7 years of relevant professional experience in accounting/tax; candidate then sits the practical competency exam directly. URLs: https://www.itaa.be/nl/aanvraag-tot-vrijstelling-van-stage-op-basis-van-7-jaar-beroepservaring/ ; https://itaa-servicedesk.freshdesk.com/nl/support/solutions/articles/80001165643-ik-heb-ervaring-in-boekhouding-fiscaliteit-kan-ik-een-vrijstelling-bekomen-voor-mijn-stage- . Whether corporate FP&A/controlling counts as "accounting" experience: ENF.
+- Q54 (VERIFIED): Finstack (Belgian) consolidation from EUR 39/month/entity, IC elimination per relationship, 2-way Excel sync, live in 1 day, for groups of 1-30 entities. URL: https://finstack.io/pricing-single-entity ; https://finstack.io/beste-consolidatiesoftware . Easyclose: not found.
+
+Total queries: 54.
+
+---
+
+## 2. Kill hypotheses: evidence, verdict, mitigation
+
+### H1. Customers will not buy monthly
+Evidence:
+- No survey or hard data on outsourced *monthly management* consolidation demand in BE/LU found (ENF after 5 queries in EN/NL/FR). All outsourced-consolidation offers found are statutory/annual (PwC CAAS, LU fiduciaries) or unpriced "CFO-as-a-service" (VGD, Unikoo, Finvision, Ventureleap).
+- Statutory pull is absent for the target: groups under 250 FTE / EUR 42.5M turnover / EUR 21.25M balance sheet are exempt from consolidation (VERIFIED, NBB/CBN). A 3-15-entity holding of that size has no legal reason to consolidate, monthly or otherwise.
+- Belgian accountancy firms already sell "real-time insight in your figures" through Silverfin/BrightAnalytics as an add-on (VP Accountants, Meesters, Blanckaert — VERIFIED). The incumbent accountant is positioned to absorb the "monthly numbers" ask.
+- Vendor content states quarterly is often the cost/insight optimum for tight-budget SMEs (accountaxzone.com — weak, generic).
+- Belgian family firms: 88% have 1-9 employees (Witboek Familiebedrijven) — the holding structures that exist are mostly opco + real-estate + management company (Code Agency), for which the "monthly group pack" is a low-felt need (INFERENCE).
+- Counter-evidence: Flemish KMO-portefeuille subsidises advisory services 20-30% up to EUR 7,500/yr for registered providers (VERIFIED), which lowers the price for buyers of *registered* providers — but not for an unregistered solo founder.
+Verdict: **SERIOUS** (segment a); **SERIOUS** (segment b, see H8: HQs centralise, not outsource locally). Not FATAL because no negative evidence exists either — the demand is simply unproven, exactly as the deep-dive admitted (risk 3).
+Mitigation: sell on a *trigger* (bank covenant, acquisition, new HQ owner, auditor finding) rather than cadence; accept quarterly packs at a lower retainer as the entry product; test WTP in 10 interviews before building anything.
+
+### H2. Regulatory kill (ITAA art. 3)
+Evidence:
+- Art. 3, 5° of the law of 17 March 2019 reserves to the certified accountant "de analyse met boekhoudtechnische procedés van de positie en werking van ondernemingen vanuit het oogpunt van hun kredietwaardigheid, rentabiliteit en risico's die **niet** leidt tot een attestering of expertiseverslag bestemd om aan derden te worden afgegeven" (VERIFIED, ejustice/etaamb + ITAA Inwerkingtreding brochure). The exclusion clause carves out *external attestations* (auditor domain); the reserved core is therefore precisely *internal* analysis of profitability and risk. Variance commentary and group performance analysis are, on the literal text, inside the fence. This is stronger against the thesis than the deep-dive's "most likely not reserved" framing.
+- Against a literal reading: ITAA's own June 2026 public statement lists the reserved activities as keeping accounts for third parties, preparing financial statements and "certain tasks", says anyone may support companies, and admits the boundary "sometimes creates confusion" (VERIFIED). No prosecution or disciplinary case against a freelance controller/consultant was found in 2022-2026 (ENF after 4 queries). The illegal-practice cases found concern bookkeeping and title misuse (Kortrijk conviction; 2022 disciplinary decisions).
+- Partnering risk (new): ITAA disciplinary decisions of 10 Feb 2022 and 17 Nov 2022 sanctioned *members* for exercising reserved activities in cooperation with / while employed by non-recognised persons (VERIFIED, report.itaa.be). The "partner with an ITAA firm" mitigation therefore exposes the partner unless it is structured as subcontracting under the firm's engagement letter (Cassation 28 Nov 2022 route, VERIFIED). No ITAA 2025-26 written position on that route found (ENF); ITAA maintains a "sous-traitance comptable" page.
+- Freelance controllers operate openly in Belgium at EUR 600-800/day (Apex League, VERIFIED) without visible ITAA enforcement — market practice suggests tolerance, not legal clarity.
+- Insurer stance on non-members doing reserved activities: ENF (must ask a broker).
+- Mitigation route found: ITAA exemption from stage and entrance exam on 7 years of relevant accounting/tax experience, then direct competency exam (VERIFIED). Whether corporate FP&A experience qualifies: ENF.
+Verdict: **SERIOUS** (one written legal opinion away from either MANAGEABLE or FATAL for the "analysis/commentary" scope; MANAGEABLE for pure data assembly and pack production).
+Mitigation: (1) written opinion from a lawyer specialised in ITAA law on art. 3, 5° vs "controlling"; (2) contract wording that positions deliverables as reporting/data preparation and explicitly excludes bookkeeping, annual accounts and creditworthiness analysis; (3) subcontract under an ITAA firm's engagement letter for anything ledger-touching; (4) file the 7-year-experience exemption request to test eligibility for the certified-accountant exam.
+
+### H3. Employment kill
+Evidence:
+- Belgian law: competing activity during employment is always unlawful (loyalty/good faith); a non-competing self-employed side activity outside working hours is allowed absent a valid clause; exclusivity clauses are valid only if limited to competing or job-hindering activities (Securex, Group S, elfri.be, Monard — VERIFIED). The 2022 transparent-working-conditions law protects work for *other employers*, not self-employed side activities (legalnews/Mploy — VERIFIED).
+- Case law/doctrine: employee must *inform* the employer of a complementary self-employed activity; unauthorised exercise when work rules require authorisation is a fault but not automatically serious cause; serious cause is established when the activity serves a competitor, even without proven conflict; employer may refuse where conflict/competition exists (commyounity.be, litiss.be, cap50.be — VERIFIED).
+- Specific trap: if the employer is a foreign-owned subsidiary, segment (b) clients are by construction "companies like the employer"; any client in the employer's sector or supply chain crosses into competitor territory. No case found on this exact fact pattern (ENF).
+Verdict: **MANAGEABLE** for segment (a) with prior written disclosure/approval; **SERIOUS** for segment (b) if any client overlaps the employer's industry; FATAL only if the contract/work rules contain a justified authorisation clause and the employer refuses.
+Mitigation: read contract + work rules; request written authorisation for "financial reporting services to non-competing SMEs"; exclude the employer's sector, customers and suppliers in writing.
+
+### H4. Incumbents crush it
+Evidence:
+- Odoo 19 Enterprise already ships a consolidation engine with automatic IC elimination "if intercompany accounts are consistently coded", manual elimination journals per period, and automatic IC document sync (SO/PO, invoice/bill) (VERIFIED partner blogs; forum threads show configuration confusion, not absence).
+- Odoo 20 is unveiled 24 Sep 2026 in Brussels (12 days from today): previews say automatic reconciliation extends to *any* balance-sheet account including intercompany accounts with auto-generated adjustment entries, plus a CTA line; finance track has ~20 sessions incl. multi-company consolidation; Partena Professional CEO keynote "what's coming for accountants" (VERIFIED).
+- Multi-company beyond 3 legal entities requires the Odoo Custom plan (VERIFIED) — the target customer already pays for the tier that includes Consolidation.
+- Exact sells "Exact Consolidatie" (rules-based, IC processing) and Exact Online Premium HQ functions (VERIFIED). BrightAnalytics advertises AI-driven IC matching with automatic adjustments (VERIFIED). Finstack (Belgian) EUR 39/entity/month with IC elimination per relationship, live in 1 day (VERIFIED). Syft (Xero) USD 19-119/entity; Joiin from USD 19 (VERIFIED).
+- PwC Belgium sells "Consolidation as a service" end-to-end; ITAA firms are natively inside Belgian Odoo ledgers via the Odoo Accounting Firm program (doo.FINANCE Gold Partner, Acofisco) (VERIFIED).
+Verdict: **FATAL for the "Odoo/Exact-native consolidation product"** leg of the thesis (the platform owner and four SaaS vendors already cover it at EUR 19-119/entity); **MANAGEABLE for the service** leg, because none of the above chases the sister company, fixes the mapping or signs the pack.
+Mitigation: drop the consolidation-engine product ambition before Odoo 20 confirms it; if any product survives it is a Belgian-GAAP-to-HQ mapping/pack/commentary layer *on top of* Odoo Consolidation or Finstack — thin.
+
+### H5. AI commoditises it
+Evidence:
+- Microsoft Finance Agent explicitly targets "Intercompany reconciliations", "Budget v. Actual, Period over Period, Revenue variances", native to Dynamics 365 and SAP; Account Reconciliation Agent is a production-ready preview, Variance Analysis in preview (VERIFIED). HQs on D365/SAP will run these over subsidiary ledgers themselves.
+- Odoo 20 "Accounting for non-CFOs": scheduled agent runs treasury/finance checklists, flags anomalies, summarises findings without prompting (VERIFIED previews).
+- Peliqan publishes an "Exact Online + Claude: the complete CFO playbook" (VERIFIED) — the DIY agent route over Exact is documented for any controller.
+- ITAA blog Aug 2026 "AI bereidt voor. U beslist." — the regulated profession is itself repositioning onto the "trust/sign-off" role OPP-A wants (VERIFIED).
+- Belgian interim market "entered a contractionary phase early 2025 to 2026" (fractional-csuite, VERIFIED search-summary) — more cheap human controllers, plus cheaper AI.
+Verdict: **SERIOUS**. Consistent with the deep-dive's "NEUTRAL-to-WEAKENED"; the red-team addition is that the *HQ side* of segment (b) is being equipped fastest (Copilot/SAP/D365), so segment (b) erodes first.
+Mitigation: price as accountability + IC discipline, not as reports; avoid HQs on D365/SAP; target groups whose HQ has *no* EPM (small foreign parents on Odoo/Exact/Xero).
+
+### H6. Margins / churn
+Evidence:
+- Fractional CFO average engagement 18-24 months (2023 data, aggregator sites — ESTIMATE, weak sourcing). No Belgian churn data (ENF).
+- Belgian freelance financial controller EUR 75-100/h, EUR 600-800/day; fractional CFO EUR 1,000-1,800/day (VERIFIED). A EUR 1.5-4k retainer buys 2-5 freelance controller-days; the buyer can compare directly and the AI leverage is invisible to them.
+- Offshore controllers USD 40-75/h, ~USD 4,000/month (US market, VERIFIED); no Dutch/French-speaking offshore controller pricing found (ENF).
+- Neno: EUR 6.6M seed (Aug 2026), AI-native accounting+tax with human accountants, Belgium in the next wave H2 2027 (VERIFIED). "Skalar": not found (ENF).
+- Belgian CFO-as-a-service providers with KMO-portefeuille registration get a 20-30% subsidy on advisory fees (VERIFIED) — an effective price handicap for the founder.
+Verdict: **SERIOUS** on price ceiling and comparability; **MANAGEABLE** on churn (18-24 months is workable at 4-6 clients if acquisition is cheap).
+Mitigation: package outcomes (pack delivered WD+X, IC differences < threshold) not days; consider KMO-portefeuille registration once incorporated; Wallonia/Brussels equivalents to check.
+
+### H7. Stays a service forever
+Evidence:
+- SME consolidation SaaS is per-entity priced (USD 19-119) and exits small: Syft sold to Xero for ~USD 70M (VERIFIED). Joiin/Finstack/Fathom occupy the same low-ARPU band.
+- Odoo Apps: 70% developer share; one anecdote of a solo developer at USD 10k/month; generic app economics: median <USD 1k/month, 81% never cross it (VERIFIED/ESTIMATE).
+- No case studies of finance productised-service-to-SaaS transitions found either way (ENF) — the question stays HYPOTHESIS.
+- Deep-dive already concedes multi-tenant SaaS needs an engineer and HQ security review.
+Verdict: **SERIOUS** (as a venture thesis); **IRRELEVANT** if the goal is a EUR 100-200k/yr second income.
+Mitigation: treat the product ambition as optional upside; the only plausible productisable asset is the mapping/IC-pattern library, which is small.
+
+### H8. Market smaller than estimated
+Evidence:
+- Statbel/Planbureau 2023: ~5,500 groups active in Belgium, >15,000 Belgian subsidiaries; ~2,100 domestic groups, ~1,800 Belgian-controlled MNEs, ~1,600 foreign-controlled MNEs (VERIFIED). This is the *whole* universe before filtering for 3-15 entities, Odoo/Exact, no controller, and willingness to pay.
+- Belgium is ~8-13% of Odoo's customer base (tracker-dependent), 77% of Odoo customers <50 employees (VERIFIED, mixed sources). Exact: 81% of customers are in NL; Belgian Exact multi-entity groups are a thin slice (VERIFIED).
+- Groups under the 2024 thresholds are exempt from consolidation (VERIFIED), so most 3-15-entity Belgian holdings have no compliance-driven need.
+- HQ trend: 69% of organisations run or move to GBS/shared services, 85% committed (SSON 2025 via heflo — VERIFIED search-summary). Foreign HQs centralise subsidiary finance into SSCs rather than outsource to local providers.
+- How many target groups already employ a controller: ENF.
+Verdict: **SERIOUS**. INFERENCE: after filters, segment (a) is likely low hundreds of addressable groups nationally and segment (b) is shrinking structurally; a solo firm needs only 5-10 clients, so SOM is sufficient for a lifestyle business but not for a category.
+Mitigation: compute SAM from the Statbel group register + Odoo partner client lists rather than top-down; verify with 3 Odoo partners how many multi-company clients lack a controller.
+
+### H9. Belgium-specific traps
+Evidence:
+- Language: 85% of Flemish firms are family firms; no data on Dutch-language requirements for controller mandates found (ENF). INFERENCE: Flanders is where most Odoo/Exact family groups are (Exact's Benelux base, Flemish KMO-portefeuille), so weak Dutch cuts the SAM materially.
+- GDPR: professional guidance for regulated professions: no client data in public LLMs; DPA with Azure/OpenAI etc.; anonymise (VERIFIED). Same as deep-dive; MANAGEABLE.
+- HQ data sovereignty/security questionnaires: only generic vendor-risk content found; no case evidence (ENF). INFERENCE stands.
+- "Dosign" ruling: not found in 3 queries (ENF). Adjacent: Cass. 4 Apr 2025 on the accountant's retention ban (must hand back books/data on request) — applies to accountants, IRRELEVANT to OPP-A.
+- Peppol B2B e-invoicing live since 1 Jan 2026 (VERIFIED) — irrelevant to scope, minor admin.
+Verdict: language **SERIOUS** (halves segment a); GDPR **MANAGEABLE**; HQ security **MANAGEABLE-to-SERIOUS** (unverified); Dosign **IRRELEVANT** until someone can cite it.
+Mitigation: Brussels/Wallonia/Luxembourg first; Dutch partner later; EU-region LLM with zero retention; export-only mode for HQs.
+
+---
+
+## 3. New kill hypotheses (not in the brief)
+N1. **Partner-risk inversion**: ITAA disciplines its members for cooperating with non-members (2022 decisions). ITAA firms will decline partnership unless the founder is a pure subcontractor under their engagement letter — which turns OPP-A into white-label labour for the firm (no own clients, no brand, firm-set rates). HYPOTHESIS grounded in VERIFIED discipline cases.
+N2. **Odoo Custom-plan overlap**: groups >3 entities must be on Odoo Custom, which includes Consolidation; the founder's tooling competes with a feature the client already pays for. VERIFIED tier rule; INFERENCE on effect.
+N3. **Subsidy asymmetry**: KMO-portefeuille (and possibly Walloon/Brussels equivalents) gives registered advisory providers a 20-30% price advantage; an unregistered part-time sole trader is structurally more expensive. VERIFIED subsidy; ENF on registration feasibility for the founder.
+N4. **Timing**: Odoo 20 unveiled 24-26 Sep 2026 in Brussels; any product decision before then is premature, and any "Odoo-native" positioning may be obsolete within weeks. VERIFIED date.
+N5. **Segment (b) attrition by HQ tooling**: HQs on D365/SAP get IC-reconciliation and variance agents natively (Microsoft); HQs on EPM (LucaNet/Tagetik/OneStream) own the process; only HQs with *no* system remain — the smallest, least willing to pay. VERIFIED tooling; INFERENCE on residual.
+N6. **Interim-market contraction**: Belgian interim finance demand contracted 2025-26; more freelance controllers at EUR 600-800/day compete for the same retainers. VERIFIED search-summary.
+N7. **Employer identity trap**: the founder's employer is (per brief) a foreign-owned subsidiary — i.e. a segment (b) archetype. Serving other subsidiaries invites the "competitor" reading that Belgian courts treat as serious cause. VERIFIED legal rule; INFERENCE on application.
+N8. **Regulatory self-repositioning of ITAA**: the profession is publicly moving to the "AI prepares, the accountant decides/trusts" role (ITAA blog Aug 2026) — the exact trust position the thesis claims for a non-member. VERIFIED.
+
+---
+
+## 4. Steelman residual
+Nothing survives of the *venture* version (Odoo/Exact-native consolidation product → agent-first firm): the platform owner ships the engine, four SaaS vendors price it at EUR 19-119/entity, and the exit comps are ~USD 70M for a category leader.
+
+The strongest surviving version is a **services-only, French-speaking, trigger-driven controlling retainer**:
+- Segment: Brussels/Wallonia/Luxembourg holdings of 3-8 entities on Odoo Enterprise (Custom plan) *with a trigger* (bank covenant, acquisition, new investor, auditor remark), plus foreign-owned subsidiaries whose HQ has **no** EPM/D365/SAP and is outside the founder's employer's sector.
+- Offer: "group reporting & intercompany discipline" — data assembly, mapping maintenance, IC matching lists, pack production in HQ format, tie-out checks; commentary framed as *management narrative on figures the client owns*; explicit exclusions: bookkeeping, posting, statutory consolidated accounts, creditworthiness/risk analysis in the art. 3, 5° sense. Quarterly entry tier; monthly only with WD10+ deadlines.
+- Legal structure: either (i) own contracts after a written legal opinion on art. 3, 5°, or (ii) subcontractor to one ITAA firm that already sits in Odoo (doo.FINANCE-type) under its engagement letter (Cassation route) — accepting firm-set rates; in parallel, file the ITAA 7-year-experience exemption request to open the certified-accountant route and remove the ceiling.
+- Employer: written authorisation for a non-competing side activity, sector exclusions in writing.
+- Economics: 4-6 clients × EUR 1.5-3k = EUR 70-200k/yr gross at 10-15 h/week only if tooling removes >60% of hours; a lifestyle/second income, not a venture.
+
+---
+
+## 5. Five cheapest tests for the FATAL/SERIOUS items
+1. **Art. 3, 5° opinion (H2, N1)** — EUR 500-1,500, 2 weeks: written opinion from a lawyer practising ITAA/professional law on whether management reporting, variance commentary and IC matching lists for third parties fall under art. 3, 5°; in parallel a written question to the ITAA servicedesk (free) and a broker quote for PI insurance with the intended scope description (free).
+2. **Employer check (H3, N7)** — EUR 0, 1 week: read contract + work rules for authorisation clauses; request written permission for "financial reporting services to non-competing SMEs outside [sector]"; a refusal or silence is the answer.
+3. **Odoo Experience 24-26 Sep 2026, Brussels (H4, N2, N4)** — ticket cost, 3 days: attend the Odoo 20 keynote, the finance-track consolidation sessions and the Partena "what's coming for accountants" talk; ask two Belgian Odoo partners (doo.FINANCE, Code Agency) how many multi-company clients lack a controller and what they charge for reporting. Decides the product leg.
+4. **10 trigger interviews (H1, H8, H9)** — EUR 0, 4 weeks: owners/finance leads of 3-8-entity groups sourced via Odoo partners and one ITAA firm; ask current cadence, who produces the group view, what they pay, and what would make them pay monthly; record language of the conversation. Kill signal per deep-dive: majority say quarterly with the accountant is enough.
+5. **Price-comparison test (H5, H6, N3, N6)** — EUR 0, 4 weeks: send 3 prospects two quotes — EUR 2.5k/month outcome-based pack vs. "3 controller-days at EUR 700" — and ask which they would sign; simultaneously check KMO-portefeuille / Walloon-Brussels subsidy registration requirements and the ITAA 7-year exemption eligibility (submit CV, free).
+
