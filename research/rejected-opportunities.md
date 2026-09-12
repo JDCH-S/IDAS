@@ -79,6 +79,8 @@ Column key for the problem flags: C = competitor problem, B = barrier problem, K
 
 ## Stage FINAL
 
+Reopened by the independent final review: U-019 (BE/LU agent-native bookkeeping firm), rejected at screening for needing an ITAA-licensed practice, is recombined with U-011 and OPP-A into the venture experiment "ITAA-partnered agent-first controlling and accounting firm" (professionals hold the majority per the 2019 law; non-member minority co-founder; seven-year-experience exemption route). It is a hypothesis, not a validated opportunity; see `final-recommendation.md` section 4.2.
+
 See `final-recommendation.md`. Pattern across all stages: in Belgian SME finance in 2026 the software rents are held by platform owners (Odoo, Microsoft, Visma/Exact, Xero) and by the Ghent accounting-tech cluster; what a part-time non-ITAA founder can reach is accountable finance work sold on triggers at prices anchored to interim day rates, with the ITAA seven-year-experience exemption as the route to turn the regulatory wall into a moat.
 
 | ID | Idea | Market | Why it was investigated | Why rejected (CI evidence) | C | B | K | R | A | F | I | O |

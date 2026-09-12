@@ -53,7 +53,7 @@ Reading the ranking: the pattern across all 40 checks is that pure-software play
 - Current solution: in-house controller, interim/freelance controller, Big-4 managed services, Excel.
 - Existing competitors: interim agencies (Apex League, Michael Page, Robert Half), Finvision, FinForces, Flow Partners, EY/KPMG managed services; Neno (NL, EUR 6.6M, bookkeeping) and Skalar (DE, EUR 12M, tax) are the agent-first services analogues, not FP&A.
 - Why customers pay: they already pay day rates; a fixed retainer with faster turnaround and fewer errors is a like-for-like substitution.
-- Why now: agent leverage lets one senior person serve many subsidiaries; interim rates face upward pressure (Dosign equal-pay ruling, 1 Jan 2026, VERIFIED); incumbents are day-rate models with no incentive to compress.
+- Why now: agent leverage lets one senior person serve many subsidiaries; interim rates were reported as rising by a recruitment blog citing a "Dosign" ruling, which the final review identified as the Dutch WAADI judgment (not applicable in Belgium): no verified Belgian rate-rise; incumbents are day-rate models with no incentive to compress.
 - Why still open: services niche, not a category; nobody has productised it; Big-4 ignore sub-EUR-50M subsidiaries' price point.
 - Belgium entry: Brussels has a dense population of foreign-owned subsidiaries and holdings (count: Evidence not found); founder's own network is the first channel.
 - Founder fit 10/10: exactly the founder's job, done for several companies instead of one.

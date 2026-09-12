@@ -52,3 +52,19 @@ Date: 2026-09-11. Repo: jdch-s/idas, branch claude/amazing-darwin-udo71p.
 - OPP-E (U-046): WEAKENED. DoraPilot (Ireland) sells the vendor-side product (answering bank assessments, evidence vault, RoI xBRL-CSV export) at EUR 29-49/month; DoraPass from EUR 500/yr; Vanta/Drata DORA modules. FSMA/CSSF/DNB 2026 RoI cycles were "limited updates" -> annual refresh revenue is a hypothesis with contrary evidence; recurring pool BE/LU/NL EUR 75-200k/yr total. Art. 30 addendum commoditised (free public addenda, FSREG clauses); real pain is red-lining the bank's paper (lawyer work). SAM 500-1,050 vendors; TAM EUR 1-2M one-off; SOM EUR 80-200k cumulative over 3 years. Legal: Belgium has no lawyer monopoly on advice (templates legal); Luxembourg reserves habitual paid legal consultation to avocats; Belgian bar bans fee-sharing with non-lawyers. Demand evidence: >22,000 EU FEs; LU only 40% RoI filed by 16 Mar 2026; 2024 dry-run's most common failure was provider LEI/parent IDs; PwC: half of FEs saw ICT-provider DORA issues, 1 in 4 expect to terminate contracts. Verdict: BE-first, lawyer-adjacent done-for-you side service only (EUR 1-3k/month); NIS2 supplier-attestation dossier is the more plausible adjacent.
 - All five deep-dived theses have lost their product leg. Final reviewer asked to challenge the "no venture-scale opportunity" conclusion and the #1 pick.
 - RED OPP-F: no venture-scale upside for this founder. Under-kill found: Kube ESG (Isabel/Febelfin, Belfius/BNPPF/ING/KBC, built by Karomia, launched Nov 2025) is the national free VSME evidence library + passport with bank distribution; EcoVadis credits VSME reports and launched free EcoVadis Vitals; CyFun Small (7 free CCB controls) positioned as the way to answer customer questionnaires. SERIOUS: buyer acceptance (UCB demands EcoVadis >=45; Port of Antwerp accepts only verified CyFun Basic/ISO 27001); value-chain cap; channel (56% client stops; MSPs have ECP); Flanders Dutch-only; price anchored at zero (1up USD 250/mo with Dutch and French). FATAL for AI-as-moat. Over-kill: liability (PI insurance exists; drafting is not attesting). Steelman: per-questionnaire security-led drafting as white-label labour to MSPs, EUR 3-10k/month ceiling.
+
+## Phase 8 notes (final review) and close
+- FINAL REVIEW verdict (c): OPP-A as cash engine in quarterly/trigger form + one venture experiment: ITAA-partnered agent-first controlling and accounting firm (recombination of screened-out U-019 + U-011 + OPP-A). Evidence: 2019 law requires professionals to hold only the MAJORITY of votes/board (non-member minority co-founder allowed); seven-year-experience route waives admission exam and internship (aptitude exam remains; simulator live 10 Jul 2026); no Belgian AI-native accounting firm found; Neno names Belgium for 2027. Contradictions fixed: "Dosign" is the Dutch WAADI judgment (removed as a pillar); Odoo gap "unsettled until 26 Sep 2026"; employer assumption not in brief; Walloon voucher labelling requires ~3 years (subsidy claim removed); legal-read price harmonised; ranking harmonised across files; interviews French-first; U-019 reopened.
+- Venture re-ranking check: OPP-A still first under upside weighting (65.7 vs 57.3); no scored idea exceeds 6/10 on large-company potential.
+
+## Status
+- [x] 0 Setup
+- [x] 1 Discovery streams A-E (130 raw items)
+- [x] 2 Universe consolidation (102 unique; 40 investigated; market map 16 themes)
+- [x] 3 Competitive intelligence (4 batches, 40 existence checks)
+- [x] 4 Scoring v1 / Top 20 (23 criteria, weighted)
+- [x] 5 Deep research (OPP-A..F)
+- [x] 6 Red team (OPP-A, B, F; C/D/E self-red-teamed in their deep dives and covered by the final review)
+- [x] 7 Top 5 deep dives written
+- [x] 8 Final review + decision
+- [x] 9 Deliverables committed and pushed

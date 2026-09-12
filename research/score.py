@@ -221,6 +221,29 @@ for id_, d in S.items():
 rows.sort(key=lambda r: -r["overall_score"])
 for i, r in enumerate(rows, 1):
     r["rank"] = i
+
+# Final status after deep research, red teams and independent review (overrides CI status in the export).
+FINAL = {
+    "U-031": ("TOP-1 cash engine (OPP-A)", ""),
+    "U-021": ("TOP-1 cash engine (OPP-A, service leg); product leg rejected", "Odoo 19/20 and EUR 39/entity SaaS cover consolidation tooling"),
+    "U-064": ("TOP-2 only with ITAA/IBR signatory (OPP-C)", "Art. 3, 5 reserved activity; Analyzediz/Syno/Bol exist"),
+    "U-046": ("TOP-3 side service (OPP-E)", "DoraPilot EUR 29-49/mo; weak recurrence; 500-1,050 vendors"),
+    "U-002": ("RESERVE service wedge (OPP-B); product rejected", "Belgian Peppol Authority scanner cut errors 2.41%->0.31%; vendor views; Peliqan"),
+    "U-004": ("RESERVE 2027 build (OPP-B second act)", "Dataset only in early-2027 Royal Decree; foreign analogues bundled into software"),
+    "U-068": ("RESERVE (OPP-D)", "Primes gone; ECORENO closed to ACPs; free facilitator; calendar slipped"),
+    "U-043": ("RESERVE (OPP-F)", "Kube ESG, EcoVadis Vitals, CyFun Small occupy the passport layer; Sunhat funded"),
+    "U-011": ("FOLDED into OPP-A / venture experiment", "ITAA reserved activities; subcontracting route only"),
+    "U-089": ("CASH-ENGINE option, not a company", "No moat; agency lead-magnet"),
+    "U-042": ("WEAK", "TenderWolf and Tender Experts add AI; bid-ops WTP unproven"),
+}
+for r in rows:
+    if r["id"] in FINAL:
+        r["status"], reason = FINAL[r["id"]]
+        r["rejection_reason"] = reason
+    elif r["status"] == "WEAK":
+        r["rejection_reason"] = "Crowded or platform-absorbed software layer; kept only as asset or reference (see top-20.md)"
+    elif r["status"] == "REJECT":
+        r["rejection_reason"] = "Already built by incumbents or no wedge (see rejected-opportunities.md, stage CI)"
 (HERE / "opportunity-database.json").write_text(json.dumps(rows, indent=1, ensure_ascii=False))
 for r in rows:
     print(f'{r["rank"]:2d} {r["id"]} {r["overall_score"]:5.1f} {r["status"]:9s} {r["opportunity"][:70]}')

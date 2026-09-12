@@ -15,7 +15,7 @@ Date: 2026-09-11. Existence checks were run on the 40 investigated opportunities
 ### 2.1 Fractional controlling, FP&A and consolidation (U-031, U-021, U-023, U-024)
 | Player | Product | Customer | Pricing | Funding/size | Geography | Strengths | Weaknesses | Positioning |
 |---|---|---|---|---|---|---|---|---|
-| Interim/freelance controllers (Apex League, Michael Page, Robert Half, HeadFirst) | Day-rate capacity | BE SMEs, subsidiaries | Controller EUR 600-800/day; CFO EUR 900-1,400/day | n/a | BE | Trusted, flexible | People-priced, no leverage; Dosign ruling pushes rates up | The price ceiling |
+| Interim/freelance controllers (Apex League, Michael Page, Robert Half, HeadFirst) | Day-rate capacity | BE SMEs, subsidiaries | Controller EUR 600-800/day; CFO EUR 900-1,400/day | n/a | BE | Trusted, flexible | People-priced, no leverage; "Dosign" rate-rise claim disproved by final review (Dutch judgment) | The price ceiling |
 | EY FAAS / KPMG managed services | Outsourced reporting/consolidation | Subsidiaries, groups | ENF (Big-4) | Big-4 | BE | Brand, scale | Expensive for sub-EUR-50M | Top of market |
 | Finvision, FinForces, Flow Partners, Fractional-csuite | CFO-as-a-service | SMEs, scale-ups | Flow: EUR 1,000-1,800/day | Small | BE | Local | Day-rate, no tooling story | Direct substitutes |
 | Neno (NL), Skalar (DE) | Agent-first accounting/tax services | SMEs | Neno from EUR 80/mo | EUR 6.6M / EUR 12M | NL/DE; Neno to BE H2 2027 | Capital, AI-native | Bookkeeping/tax layer, not FP&A | Validate the model, adjacent layer |
